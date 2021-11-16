@@ -120,7 +120,7 @@ If this project helps your research, please consider citing the following papers
 @article{luo2021bdc,
   title={BDC: Bounding-Box Deep Calibration for High Performance Face Detection},
   author={Luo, Shi and Li, Xiongfei and Zhang, Xiaoli},
-  journal={arXiv preprint arXiv:2110.03892},
+  journal={IET Computer Vision},
   year={2021}
 }
 
