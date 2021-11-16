@@ -30,8 +30,8 @@ git clone --recursive https://github.com/shiluo1990/BDC.git
 #### 2.1. Detection Results Download
 To run the BDC algorithm, you need to offer detection results on WIDER FACE training set. Here, you can download TinaFace predicted detection results from Baidu Yun via the following link and extraction code :
 ```
-link: https://pan.baidu.com/s/1LAWhtiATbPHKweMeY8hVaQ
-extraction code: ica9
+link: https://pan.baidu.com/s/1EDvczs2BHIOqXhuHdp1TSQ
+extraction code: kqn7
 ```
 By default, the detection results should be saved into a folder named ```./prediction```.
 ```
