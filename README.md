@@ -1,5 +1,3 @@
-The source code of BDC method will be released later!
-
 # [BDC: Bounding-Box Deep Calibration for High Performance Face Detection](https://arxiv.org/abs/2110.03892)
 
 ## Introduction
