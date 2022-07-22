@@ -1,5 +1,5 @@
 # [Bounding-box deep calibration for high performance face detection](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cvi2.12122)
-# [IET Computer Vision 2022]
+#                 IET Computer Vision 2022
 ## Introduction
 This repository includes the BDC codes for calibrating misaligned bounding-boxes on WIDER FACE training set and offering calibrated annotations for training high performance face detectors. To visualize misaligned detection results, the misaligned and replaced bounding-boxes are drawn on their corresponding training images seperately. All the source codes are implemented in python.
 
