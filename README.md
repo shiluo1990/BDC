@@ -115,7 +115,7 @@ Generate training images with misaligned detection results (misaligned and corre
 ## Citation
 If this project helps your research, please consider citing the following papers:
 ```
-@article{luo2021bdc,
+@article{luo2022bdc,
   title={Bounding-box deep calibration for high performance face detection},
   author={Luo, Shi and Li, Xiongfei and Zhang, Xiaoli},
   journal={IET Computer Vision},
